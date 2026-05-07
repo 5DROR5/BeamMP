@@ -183,3 +183,7 @@ ul#chat-list {
 .italic {
     font-style: italic;
 }
+
+span[style*="background-color"] {
+    text-shadow: none;
+}
